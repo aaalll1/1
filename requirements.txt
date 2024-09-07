@@ -1,4 +1,5 @@
 aiofiles
+schedule
 aiohttp
 flask
 flask_restful
