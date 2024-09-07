@@ -1,5 +1,8 @@
 aiofiles
 aiohttp
+flask
+flask_restful
+gunicorn
 apscheduler
 asyncio
 beautifulsoup4
