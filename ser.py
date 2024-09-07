@@ -1,5 +1,3 @@
-Python 
-
 import os
 import time
 import schedule
